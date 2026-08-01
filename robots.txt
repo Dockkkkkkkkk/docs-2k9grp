@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-3j9vd9.ajaib888rfg.site/sitemap.xml
